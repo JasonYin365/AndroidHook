@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidHook</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="tv_prompt_hook">Hook Activity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
